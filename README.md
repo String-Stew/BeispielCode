@@ -1,1 +1,2 @@
 # BeispielCode
+Simpler beispiel code.
